@@ -5,4 +5,3 @@ baseurl: "/JordanG"
 url: "https://jgalczynski.github.io"
 plugins:
   - jekyll-remote-theme
-```
