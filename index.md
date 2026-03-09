@@ -11,4 +11,4 @@ This is my homepage. Edit this file to change the content.
 Write something about yourself here.
 
 ## Posts
-- [My first post](/posts/my-first-post)
+- [My first post](/JordanG/2026/03/09/my-first-post.html)
