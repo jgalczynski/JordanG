@@ -6,13 +6,3 @@ url: "https://jgalczynski.github.io"
 plugins:
   - jekyll-remote-theme
 ```
-
-To edit it on GitHub:
-1. Click on `_config.yml` in your repo
-2. Click the **pencil icon** (Edit file) top right
-3. Add the two new lines
-4. Click **Commit changes**
-
-Then wait about a minute and try:
-```
-https://jgalczynski.github.io/JordanG/2026/03/09/my-first-post/
